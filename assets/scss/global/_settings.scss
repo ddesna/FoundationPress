@@ -40,7 +40,12 @@
 //  35. Tooltip
 //  36. Top Bar
 
-@import '../../components/foundation-sites/scss/util/util';
+@import '../../bower_components/foundation-sites/scss/util/util';
+// Change it
+$primary-color: #333;
+$alert-color: #333;
+$success-color: #333;
+$warning-color: #333;
 
 // 1. Global
 // ---------
